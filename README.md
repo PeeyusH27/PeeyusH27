@@ -6,7 +6,7 @@
 
 ###
 
-<h5 align="left">Frontend Developer with 3+ years of experience collaborating with various clients to develop, maintain, and optimize web components and features. Passionate about crafting clean, efficient, and engaging user interfaces, focusing on scalable Single Page Applications (SPAs) and modern web technologies.</h5>
+<h4 align="left">Frontend Developer with 3+ years of experience collaborating with various clients to develop, maintain, and optimize web components and features. Passionate about crafting clean, efficient, and engaging user interfaces, focusing on scalable Single Page Applications (SPAs) and modern web technologies.</h4>
 
 ###
 
@@ -71,7 +71,9 @@
 ###
 
 <div align="center">
+  <a href="#">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="58" height="46" alt="gmail logo"  />
+  </a> 
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="58" height="46" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="58" height="46" alt="instagram logo"  />
 </div>
